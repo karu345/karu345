@@ -50,6 +50,19 @@ Every project I build is an opportunity to learn something new, write better cod
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="33"/>
   </a>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karu345&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karu345&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karu345&theme=github-dark&hide_border=true" />
+</p>
 <!--
 **karu345/karu345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
