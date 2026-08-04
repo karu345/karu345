@@ -30,7 +30,7 @@ Full Stack Developer • Building Modern Web Applications
 
 ## 🤝 Connect with Me
 
-<p align="center">
+<p>
   <a href="mailto:karunasheemar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="33"/>
   </a>
