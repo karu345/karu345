@@ -45,30 +45,11 @@ Every project I build is an opportunity to learn something new, write better cod
   </a>
 </p>
 
+
 ## 💻 Tech Stack
 
-**👨‍💻 Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js" />
-</p>
-
-**🎨 Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
-
-**⚙️ Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**🗄️ Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-**🛠️ Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode" />
 </p>
 <!--
 **karu345/karu345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
