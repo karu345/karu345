@@ -1,4 +1,4 @@
-<h1 align="cenetr"> Hi 👋, I'm Karuna Singh</h1>
+<h1 align="cenetr"> Hi 👋 I'm Karuna Singh</h1>
 
 <h3 align="center">Software Engineering Student</h3>
 
