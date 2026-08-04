@@ -37,19 +37,18 @@ Every project I build is an opportunity to learn something new, write better cod
 
 <hr>
 
-## 🤝 Connect with Me
-
-<p>
-  <a href="mailto:karunasheemar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="33"/>
-  </a>
-</p>
-
-
 ## 💻 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode" />
+</p>
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mail to:karunasheemar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="33"/>
+  </a>
 </p>
 <!--
 **karu345/karu345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
