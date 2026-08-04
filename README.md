@@ -22,9 +22,19 @@ Full Stack Developer • Building Modern Web Applications
 
 - 🎓 Pursuing **MCA (Software Engineering)**
 - 💻 Building modern web applications with the **MERN Stack**
-- ☕ Strengthening problem-solving skills through **LeetCode** and **Java**
+- ☕ Strengthening problem-solving skills through **Java** and **LeetCode**
 - 🌱 Currently exploring **GenAI** and **DevOps**
 - 🎯 Driven to build software that solves real-world problems and creates meaningful impact
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:karunasheemar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45"/>
+  </a>
+</p>
 <!--
 **karu345/karu345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
