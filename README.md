@@ -26,6 +26,16 @@ Full Stack Developer • Building Modern Web Applications
 - 🌱 Currently exploring **GenAI** and **DevOps**
 - 🎯 Driven to build software that solves real-world problems and creates meaningful impact
 
+
+<hr>
+
+<p align="center">
+<i>
+"Each project I build is an opportunity to learn something new, write better code, and grow as a developer."
+</i>
+</p>
+
+<hr>
 ---
 
 ## 🤝 Connect with Me
