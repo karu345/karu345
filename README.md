@@ -1,4 +1,4 @@
-<h1 align="cenetr"> Hi 👋 I'm Karuna Singh</h1>
+<h1 align="center"> Hi 👋 I'm Karuna Singh</h1>
 
 <h3 align="center">Software Engineering Student</h3>
 
@@ -17,6 +17,14 @@ Full Stack Developer • Building Modern Web Applications
     Code. Create. Improve.
   </b>
 </h3>
+
+## 🚀 About Me
+
+- 🎓 Pursuing **MCA (Software Engineering)**
+- 💻 Building modern web applications with the **MERN Stack**
+- ☕ Strengthening problem-solving skills through **LeetCode** and **Java**
+- 🌱 Currently exploring **GenAI** and **DevOps**
+- 🎯 Driven to build software that solves real-world problems and creates meaningful impact
 <!--
 **karu345/karu345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
