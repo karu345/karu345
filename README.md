@@ -51,16 +51,16 @@ Every project I build is an opportunity to learn something new, write better cod
   </a>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karu345&theme=github-dark&hide_border=true&area=true" />
-</p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=karu345&theme=github-dark&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karu345&theme=github-dark&hide_border=true&area=true" />
 </p>
 <!--
 **karu345/karu345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
