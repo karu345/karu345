@@ -36,7 +36,6 @@ Full Stack Developer • Building Modern Web Applications
 </p>
 
 <hr>
----
 
 ## 🤝 Connect with Me
 
