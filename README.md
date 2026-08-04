@@ -32,7 +32,7 @@ Full Stack Developer • Building Modern Web Applications
 
 <p align="center">
   <a href="mailto:karunasheemar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="33"/>
   </a>
 </p>
 <!--
