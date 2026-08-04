@@ -31,7 +31,7 @@ Full Stack Developer • Building Modern Web Applications
 
 <p align="center">
 <i>
-"Each project I build is an opportunity to learn something new, write better code, and grow as a developer."
+Every project I build is an opportunity to learn something new, write better code, and grow as a developer.
 </i>
 </p>
 
@@ -43,6 +43,32 @@ Full Stack Developer • Building Modern Web Applications
   <a href="mailto:karunasheemar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="33"/>
   </a>
+</p>
+
+## 💻 Tech Stack
+
+**👨‍💻 Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>
+
+**🎨 Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+**⚙️ Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**🗄️ Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+**🛠️ Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 <!--
 **karu345/karu345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
