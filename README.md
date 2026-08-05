@@ -46,7 +46,7 @@ Every project I build is an opportunity to learn something new, write better cod
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mail to:karunasheemar@gmail.com">
+  <a href="mailto:karunasheemar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="33"/>
   </a>
 </p>
